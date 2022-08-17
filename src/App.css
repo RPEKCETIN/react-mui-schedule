@@ -1,5 +1,6 @@
 .App {
-  text-align: center;
+  width: 100%;
+  overflow-x: scroll;
 }
 
 .App-logo {
@@ -35,4 +36,17 @@
   to {
     transform: rotate(360deg);
   }
+}
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  min-width: 400vh;
+  max-width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+  min-width: 20px !important;
 }
