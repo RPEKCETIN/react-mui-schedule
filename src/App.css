@@ -1,8 +1,15 @@
-.App {
+/*.App {
   width: 100%;
   overflow-x: scroll;
 }
-
+nav {
+  background-color: #3a24f0;
+  padding: 10px;
+  text-align: center;
+  width: 100%;
+  position: absolute;
+  top: 0px;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -50,3 +57,4 @@ td, th {
   padding: 8px;
   min-width: 20px !important;
 }
+*/
