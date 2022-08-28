@@ -154,6 +154,10 @@ width: ${arrays.length*12}vh !important;
     width: 35px !important;
     height: 40px;
   }
+  @media only screen and (min-width: 1920px) {
+    height: 220px;
+    width: 65px !important;
+  }
   `
   const LeftScrollGrid=styled(Grid)`
    margin-left: 50px !important;
