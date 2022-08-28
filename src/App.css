@@ -58,3 +58,9 @@ td, th {
   min-width: 20px !important;
 }
 */
+.App {
+  scroll-behavior: smooth;
+}
+body {
+  overflow-x: hidden;
+}
